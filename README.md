@@ -1,4 +1,4 @@
-### Scenario
+## Project Overview
 I have been engaged by Turtle Games, a global game manufacturer and retailer that produces and sells its own products, as well as sources and sells products manufactured by other companies. Their product range includes books, board games, video games, and toys. This analysis will utilize customer review data (turtle_review.csv) to provide insights into various key strategic objectives with the ultimate aim of improving overall sales performance, customer retention and marketing approach.
 
 In particular, this notebook will focus on the following objectives defined by Turtle Games: 
@@ -9,7 +9,9 @@ In particular, this notebook will focus on the following objectives defined by T
 
 Further statistical analysis and modelling will be instead performed in R consistent with the historical preferences and established workflow of the sales department in utilizing this tool. In R, we will evaluate the current performance of the loyalty points system and assess wheather the data can effectively support predictive modelling
 
-
+## Data Source: 
+turtle_reviews.csv 
+metadata_turtle_games
 
 **Analytical Approach**
 
